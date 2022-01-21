@@ -1,3 +1,5 @@
-h1, p {
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Neonderthaw&display=swap');
+:root {
   font-family: Lato;
+  font-size: 2rem;
 }
